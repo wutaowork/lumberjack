@@ -1,3 +1,3 @@
-module  github.com/wutaowork/lumberjack.v2
+module github.com/wutaowork/lumberjack
 
 go 1.13
